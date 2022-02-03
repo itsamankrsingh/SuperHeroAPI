@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "136dca82-c431-4617-9ea7-0e8313a72569": {
+      "ProjectGuid": "136dca82-c431-4617-9ea7-0e8313a72569",
+      "DisplayName": "SuperHeroAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
